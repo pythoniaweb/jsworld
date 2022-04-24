@@ -211,7 +211,7 @@ SWU__DOMReady(function() {
   const position = SWU__currentScript.getAttribute('position');
 
   // Set custom title
-  el.title = title || 'We stand with Ukraine';
+  el.title = 'We stand with Ukraine';
 
   // Set custom URL
   if (url) {
@@ -223,7 +223,7 @@ SWU__DOMReady(function() {
   }
 
   // Set custom position (left, right)
-  if (position === 'right') {
+  if (position === 'left') {
     el.style.right = '-80px'
     el.style.bottom = '20px'
     el.style.transform = 'rotate(135deg)'
