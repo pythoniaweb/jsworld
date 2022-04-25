@@ -1,5 +1,6 @@
 - [home](home)
 - **Project Info**
+- [![Archive Icon](https://icongr.am/fontawesome/archive.svg?size=16&color=808080) Status](status)
 - [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080) Schedules](schedule)
 - [![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=808080) Topics](topics)
 - **Creator Program**
