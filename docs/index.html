@@ -195,6 +195,29 @@ cursor: url(https://tompai.pro/wp-content/uploads/2022/03/cursor_blue_yellow-1.p
           ]
         }
     </script>
+    <script>
+        var adManager = function () {
+    var vid = document.getElementById("myVid"),
+        adSrc = "assets/images/ad.mp4",
+        src;
+
+    var adEnded = function () {
+        vid.removeEventListener("ended", adEnded, false);
+        vid.src = src;
+        vid.load();
+        vid.play();
+    };
+
+    return {
+        init: function () {
+            src = vid.src;
+            vid.src = adSrc;
+            vid.load();
+            vid.addEventListener("ended", adEnded, false);
+        }
+    };
+}();
+    </script>
 <!-- Ukraine flag -->
     <script type="text/javascript">
     
