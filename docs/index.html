@@ -160,7 +160,7 @@ cursor: url(https://tompai.pro/wp-content/uploads/2022/03/cursor_blue_yellow-1.p
               crossChapter    : false,
               crossChapterText: true,
             },
-
+            
             toc: {
               scope: '.markdown-section',
               headings: 'h2, h3',
@@ -194,6 +194,13 @@ cursor: url(https://tompai.pro/wp-content/uploads/2022/03/cursor_blue_yellow-1.p
             }
           ]
         }
+        
+        window.$docsify.customPageTitle = {
+    prefix:     false,      // [optional] title prefix. default: false eg: prefix: "Application"
+    suffix:     "Pythonia World",      // [optional] title suffix. default: false eg: suffix: "v1.0.0"
+    seprator:   '|',        // [optional] seprator for title eg: title->   prefix | title | suffix
+    debug:      false,      // [optional] should debug
+}
     </script>
    
 <!-- Ukraine flag -->
@@ -278,6 +285,6 @@ SWU__DOMReady(function() {
 
     <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-    
+    <script src="//cdn.jsdelivr.net/npm/@sujaykumarh/docsify-plugin-title@1.x/dist/plugin.min.js"></script>
 </body>
 </html>
