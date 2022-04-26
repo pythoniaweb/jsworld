@@ -13,10 +13,3 @@
 ## Where is all docs?
 
 > U can found it on slide bar or on topics
-
-
-```py
-
-test code
-
-```
