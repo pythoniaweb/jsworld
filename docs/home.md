@@ -15,7 +15,7 @@
 > U can found it on slide bar or on topics
 
 
-```python
+```py
 
 test code
 
