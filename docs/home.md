@@ -1,12 +1,12 @@
-# Welcome to pythonia world!
-> ## What is Pythonia World?
-> Its a world where u can see info about python and python modules.
+# Welcome to JS world!
+> ## What is JS World?
+> Its a world where u can see info about JS and JS modules.
 
 
 ## I want create my own info about module.
 
 > Yes u can do this.
-> Jusy go to our [github page](https://github.com/PlurrYT-web/pythonia).
+> Jusy go to our github page.
 > Then go to docs/ and create file or edit it.
 > All edits will be moderated by moderators.
 
