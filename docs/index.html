@@ -163,6 +163,11 @@ cursor: url(https://tompai.pro/wp-content/uploads/2022/03/cursor_blue_yellow-1.p
               crossChapterText: true,
             },
             
+           timeUpdater: {
+    text: ">Last Modify: {docsify-updated}",
+    formatUpdated: "{YYYY}/{MM}/{DD}",
+  },
+            
             toc: {
               scope: '.markdown-section',
               headings: 'h2, h3',
@@ -291,5 +296,6 @@ SWU__DOMReady(function() {
     
     <!-- Latest -->
 <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.js"></script>
 </body>
 </html>
