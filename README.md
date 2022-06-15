@@ -1,6 +1,6 @@
 # Discord Bot Dashboard
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 - ~~Is a very simple, no-css bot dashboard.~~
 - It has a lightweight design made with Bootstrap to be pleasant to the eye, the old design can be found in the `no-style` branch of the repository, if you are curious check that out but is still very simple!
