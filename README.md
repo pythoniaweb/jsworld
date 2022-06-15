@@ -14,9 +14,11 @@ Dont forget you need to add all u pages to nav bar!
 
 - If u want to create new page create it on folder docs.
 - All pages muss be ended .md .
-- All created pages muss be puted to _sidebar.md not in project info or creation program.
+- All pages muss be added to topic.md 
+- All pages muss be added to _sidebar.md in **JS docs** category.
 - Dont change .github or /docs/index.html files or other systems files and folders.
 - All changes is moderated.
+
 
 # 💖 Special Thanks
 
