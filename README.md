@@ -10,7 +10,7 @@ Welcome to JS World github!
 Here you can add own pages to js world!
 Dont forget you need to add all u pages to nav bar!
 Here is a bit of important info
- [x] [Full important info here](https://github.com/pythoniaweb/jsworld/blob/main/important.md)
+- [x] [Full important info here](https://github.com/pythoniaweb/jsworld/blob/main/important.md)
 
 # 🚨 Important Info 
 
