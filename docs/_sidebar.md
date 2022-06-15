@@ -1,5 +1,6 @@
 - [home](home)
-- [JS in HTML](html-js)
+- **JS Docs**
+- [JS+HTML 1](html-js)
 - **Project Info**
 - [![Archive Icon](https://icongr.am/fontawesome/archive.svg?size=16&color=808080) Status](status)
 - [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080) Schedules](schedule)
