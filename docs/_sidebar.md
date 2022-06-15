@@ -1,4 +1,4 @@
-- [home](home)
+- [Home](home)
 - **JS Docs**
 - [JS+HTML 1](html-js)
 - **Project Info**
