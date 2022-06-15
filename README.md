@@ -24,6 +24,7 @@ Dont forget you need to add all u pages to nav bar!
 - [x] Fire Url Team by PlurrYT - js.fireurl.ga subdomain.
 - [x] Fire Watcher Team by PlurrYT - added our web to status.fireurl.ga .
 - [x] github pages - special thanks for free hosting.
+- [x] docify team - for free docs engine
 
 # ⚙️ Contributors
 
