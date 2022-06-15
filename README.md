@@ -1,6 +1,6 @@
 # JS World
 
-![example workflow](https://github.com/pythoniaweb/jsworld/actions/workflows/Rblank.yml/badge.svg)
+![example workflow](https://github.com/pythoniaweb/jsworld/actions/workflows/blank.yml/badge.svg)
 
 Welcome to JS World github!
 
