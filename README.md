@@ -1,6 +1,6 @@
 # JS World
 
-![workflow](https://github.com/pythoniaweb/jsworld/actions/workflows/blank.yml/badge.svg) ![Profile View Counter](https://komarev.com/ghpvc/?username=pythoniaweb)
+![workflow](https://github.com/pythoniaweb/jsworld/actions/workflows/blank.yml/badge.svg)![Contributors]([https://komarev.com/ghpvc/?username=pythoniaweb](https://github.com/js-org/js.org/graphs/contributors))
 
 
 
