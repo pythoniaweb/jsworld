@@ -1,15 +1,3 @@
 # Status page
 
-> ## Status: All Systems Operational
-> Updated a few seconds ago.
-
-
-# Modules Status
-
-> Web Module
-> Status: All Systems Operational
-> Updated a few seconds ago.
-
-> Hosting (github)
-> Status: All Systems Operational
-> Updated a few seconds ago.
+![Github Status](https://github.com/jsworld/main/actions/workflows/main.yml/badge.svg?branch=feature-1)
