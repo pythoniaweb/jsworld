@@ -1,0 +1,2 @@
+- [x] I have accept im not abuser
+- [x] There is reasonable content change on the page: ***[insert URL here]***
