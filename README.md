@@ -2,7 +2,7 @@
 
 ![workflow](https://github.com/pythoniaweb/jsworld/actions/workflows/blank.yml/badge.svg)[![PRs](https://img.shields.io/github/issues-pr-closed-raw/pythoniaweb/jsworld.svg?style=flat-square&colorB=FFE70B&label=pull%20requests)](https://github.com/js-org/js.org/pulls?q=is%3Apr+is%3Aclosed+label%3Aadd)
 [![Contributors](https://img.shields.io/github/contributors-anon/pythoniaweb/jsworld?color=FFE70B&style=flat-square)](https://github.com/pythoniaweb/jsworld/graphs/contributors)
-[![Activity](https://img.shields.io/github/commit-activity/m/pythoniaweb/jsworld.org?color=FFE70B&style=flat-square)](https://github.com/pythoniaweb/jsworld/pulse/monthly)
+[![Activity](https://img.shields.io/github/commit-activity/m/pythoniaweb/jsworld?color=FFE70B&style=flat-square)](https://github.com/pythoniaweb/jsworld/pulse/monthly)
 
 
 Welcome to JS World github!
