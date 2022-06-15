@@ -1,3 +1,3 @@
 # Status page
 
-![Github Status](https://github.com/jsworld/main/actions/workflows/main.yml/badge.svg?branch=feature-1)
+![Github workflow](https://github.com/jsworld/main/actions/workflows/status.md/badge.svg?branch=main)
