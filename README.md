@@ -1,4 +1,4 @@
-# JS World
+# 🌐 JS World
 
 [![JS World](https://img.shields.io/badge/JSWorld-passed-FFE70B.svg?style=flat-square)]() [![PRs](https://img.shields.io/github/issues-pr-closed-raw/pythoniaweb/jsworld.svg?style=flat-square&colorB=FFE70B&label=pull%20requests)](https://github.com/pythoniaweb/jsworld/pulls?q=is%3Apr+is%3Aclosed+label%3Aadd)
 [![Contributors](https://img.shields.io/github/contributors-anon/pythoniaweb/jsworld?color=FFE70B&style=flat-square)](https://github.com/pythoniaweb/jsworld/graphs/contributors)
@@ -10,21 +10,22 @@ Welcome to JS World github!
 Here you can add own pages to js world!
 Dont forget you need to add all u pages to nav bar!
 
-# Important Info 
+# 🚨 Important Info 
 
-If u want to create new page create it on folder docs.
-All pages muss be ended .md .
-All created pages muss be puted to _sidebar.md not in project info or creation program.
-Dont change .github or /docs/index.html files or other systems files and folders.
-All changes is moderated.
+- If u want to create new page create it on folder docs.
+- All pages muss be ended .md .
+- All created pages muss be puted to _sidebar.md not in project info or creation program.
+- Dont change .github or /docs/index.html files or other systems files and folders.
+- All changes is moderated.
 
-# Special Thanks
+# 💖 Special Thanks
 
-pythoniaweb (PlurrYT) - created web
-Fire Url Team by PlurrYT - js.fireurl.ga subdomain
-Fire Watcher Team by PlurrYT - added our web to status.fireurl.ga
+- [x] pythoniaweb (PlurrYT) - created web.
+- [x] Fire Url Team by PlurrYT - js.fireurl.ga subdomain.
+- [x] Fire Watcher Team by PlurrYT - added our web to status.fireurl.ga .
+- [x] github pages - special thanks for free hosting.
 
-# Contributors
+# ⚙️ Contributors
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
