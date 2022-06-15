@@ -4,6 +4,7 @@
 
 ### H
 [Home](home)
+[JS+HTML 1](html-js.md)
 
 ### S 
 [Schedules](schedule)
