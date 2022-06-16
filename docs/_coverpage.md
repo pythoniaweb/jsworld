@@ -9,7 +9,7 @@
 - Learn JS Fast!
 - Create Own Pages!
 
-[GitHub](https://github.com/pythoniaweb/jsworld/)
+[Become Editor](https://github.com/pythoniaweb/jsworld#-js-world)
 [Getting Started](home)
 
 <!-- background image 
