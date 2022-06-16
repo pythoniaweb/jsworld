@@ -16,6 +16,6 @@
 
 ![](_media/bg.png)
 -->
-<!-- background color -->
+<!-- background color  -->
 
 ![color](#f0f0f0)
