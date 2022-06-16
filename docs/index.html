@@ -134,7 +134,7 @@ cursor: url(https://tompai.pro/wp-content/uploads/2022/03/cursor_blue_yellow-1.p
         window.$docsify = {
             // GENERAL SETTINGS
             // -----------------------------------------------------------------
-            name              : '<h2 class="ukraine">JS World</h2><br>Stand with<br>Ukraine!',
+            name              : '<h2 class="ukraine">JS World</h2>Stand with<br>Ukraine!',
             homepage          : 'home.md',
             loadSidebar       : true,
             loadNavbar        : !(getURLParameterByName(['standalone','embedded'])),
@@ -183,7 +183,7 @@ cursor: url(https://tompai.pro/wp-content/uploads/2022/03/cursor_blue_yellow-1.p
                 } else {
                   url = gitLinkRepoURL +'/blob/main/docs/' + vm.route.file
                 }
-                var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n'
+                var editHtml = '[![Github](https://icongr.am/fontawesome/github.svg?size=16&color=808080) ' + editThisPageLinkText + '](' + url + ')\n'
 
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
