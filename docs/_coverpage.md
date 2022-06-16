@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](/assets/favicon/pixilart-drawing.png)
 
 # JS World <small>2.0</small>
 
@@ -12,10 +12,10 @@
 [GitHub](https://github.com/pythoniaweb/jsworld/)
 [Getting Started](#home)
 
-<!-- background image -->
+<!-- background image 
 
 ![](_media/bg.png)
-
+-->
 <!-- background color -->
 
 ![color](#f0f0f0)
