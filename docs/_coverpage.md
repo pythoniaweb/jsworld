@@ -1,9 +1,16 @@
 <!-- _coverpage.md -->
 
-# docsify <small>3.5</small>
+![logo](_media/icon.svg)
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#quick-start)
+# JS World <small>2.0</small>
+
+> A magical world where u can learn Java Script.
+
+- Learn JS Fast!
+- Create Own Pages!
+
+[GitHub](https://github.com/pythoniaweb/jsworld/)
+[Getting Started](#home)
 
 <!-- background image -->
 
