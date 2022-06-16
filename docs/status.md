@@ -4,6 +4,5 @@
 [![Contributors](https://img.shields.io/github/contributors-anon/pythoniaweb/jsworld?color=FFE70B&style=flat-square)](https://github.com/pythoniaweb/jsworld/graphs/contributors)
 [![Activity](https://img.shields.io/github/commit-activity/m/pythoniaweb/jsworld?color=FFE70B&style=flat-square)](https://github.com/pythoniaweb/jsworld/pulse/monthly)
 
-<iframe src="https://status.fireurl.ga>
-U browser dont support iframe
-</iframe>
+<iframe src="[https://www.w3schools.com](https://status.fireurl.ga)" title="Status page by Fire Team"></iframe>
+
