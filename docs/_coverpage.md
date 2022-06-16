@@ -10,7 +10,7 @@
 - Create Own Pages!
 
 [GitHub](https://github.com/pythoniaweb/jsworld/)
-[Getting Started](#home)
+[Getting Started](home)
 
 <!-- background image 
 
