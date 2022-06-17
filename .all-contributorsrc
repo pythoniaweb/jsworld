@@ -1,9 +1,11 @@
 {
-  "projectName": "all-contributors-cli",
-  "projectOwner": "jfmengels",
+  "projectName": "jsworld",
+  "projectOwner": "pythoniaweb",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "commit": false,
   "contributorsPerLine": 7,
@@ -16,5 +18,16 @@
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
-  "contributors": []
+  "contributors": [
+    {
+      "login": "pythoniaweb",
+      "name": "plurryt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70047632?v=4",
+      "profile": "https://fireurl.ga",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "skipCi": true
 }
