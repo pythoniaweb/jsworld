@@ -32,6 +32,4 @@ Here is a bit of important info
 
 # ⚙️ Contributors
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=pythoniaweb/jsworld)
