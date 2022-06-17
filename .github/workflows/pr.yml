@@ -11,5 +11,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
           PR_URL: ${{ github.event.pull_request.html_url }}
         run: |
-         gh issue edit $PR_URL --add-label "triage"
-         gh issue comment $PR_URL --body "Hi! <br> Im Github App / Bot! <br> Thanks for submitting pull request! <br> This pr is now on status 'triage' <br> Note: In this account is owner too."
+         gh pr edit $PR_URL --add-label "triage"
+         gh pr comment $PR_URL --body "Hi! <br> Im Github App / Bot! <br> Thanks for submitting pull request! <br> This pr is now on status 'triage' <br> Note: In this account is owner too."
