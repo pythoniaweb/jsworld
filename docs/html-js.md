@@ -10,7 +10,7 @@ Creating click to see data button
 ```js
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">
-Click me to display Date and Time.</button>
+Click me.</button>
 
 <p id="demo"></p>
 ```
@@ -23,10 +23,9 @@ Click me.</button>
 
 <p id="demo"></p>
 
-Chnage html text by js
+We use JS to change HTML of p with id demo
 
-here is code
-
+Example: 
 ```js
-document.getElementById("demo").innerHTML = "Hello JavaScript";
+document.getElementById("demo").innerHTML = Date();
 ```
