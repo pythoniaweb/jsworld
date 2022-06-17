@@ -1,15 +1,15 @@
 # Welcome to JS world!
 > ## What is JS World?
-> Its a world where u can see info about JS and JS modules.
+> Its A magical world where u can learn Java Script.
 
 
-## I want create my own info about module.
+## I want create my own info about js or module.
 
 > Yes u can do this.
-> Jusy go to our github page.
+> Just go to our github repo.
 > Then go to docs/ and create file or edit it.
-> All edits will be moderated by moderators.
+> [More info here](https://github.com/pythoniaweb/jsworld#-js-world)
 
 ## Where is all docs?
 
-> U can found it on slide bar or on topics
+> U can found it on slide bar or on [topics](topics)
