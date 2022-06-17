@@ -10,4 +10,4 @@ jobs:
       - name: Labelling pull request ✨
         uses: actions/labeler@main
         with:
-          repo-token: "${{ secrets.GITHUB_TOKEN }}"
+          repo-token: "${{ secrets.MY_TOKEN }}"
