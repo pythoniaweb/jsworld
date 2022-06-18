@@ -184,13 +184,13 @@
                 } else {
                   url = gitLinkRepoURL +'/blob/main/docs/' + vm.route.file
                 }
-                var editHtml = '<a href="//www.dmca.com/Protection/Status.aspx?ID=000f1e75-bc82-42ae-b015-e3e21083647f" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-07.png?ID=000f1e75-bc82-42ae-b015-e3e21083647f"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>\n[![Github](https://icongr.am/fontawesome/github.svg?size=16&color=808080) ' + editThisPageLinkText + '](' + url + ')\n',
+                var editHtml = '[![Github](https://icongr.am/fontawesome/github.svg?size=16&color=808080) ' + editThisPageLinkText + '](' + url + ')\n',
 
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
                 if ((!(getURLParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
-                  return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml
+                  return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + '<a href="https//www.dmca.com/Protection/Status.aspx?ID=000f1e75-bc82-42ae-b015-e3e21083647f" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-07.png?ID=000f1e75-bc82-42ae-b015-e3e21083647f"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>' + editHtml
                 } else {
                   return html
                 }
