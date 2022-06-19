@@ -1,3 +1,5 @@
+<meta name="description" content="A magical world where u can learn JS - learn, js, fast, easy, free, online, best, world, js world, html, css, html-js
+">
 # Welcome to JS world!
 > ## What is JS World?
 > Its A magical world where u can learn Java Script.
