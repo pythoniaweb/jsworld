@@ -5,7 +5,7 @@
 [![Contributors](https://img.shields.io/github/contributors-anon/pythoniaweb/jsworld?color=FFE70B&style=flat-square)](https://github.com/pythoniaweb/jsworld/graphs/contributors)
 [![Activity](https://img.shields.io/github/commit-activity/m/pythoniaweb/jsworld?color=FFE70B&style=flat-square)](https://github.com/pythoniaweb/jsworld/pulse/monthly)
 
-![lgo protected by dmca](https://github.com/pythoniaweb/jsworld/actions/workflows/deploy.yml/badge.svg](https://jsworld.is-a.dev/assets/favicon/pixilart-drawing.png)
+![lgo protected by dmca](https://jsworld.is-a.dev/assets/favicon/pixilart-drawing.png)
 
 Welcome to JS World github!
 
