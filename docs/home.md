@@ -1,10 +1,4 @@
----
-marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
-theme: uncover
-paginate: true
----
+
 # Welcome to JS world!
 > ## What is JS World?
 > Its A magical world where u can learn Java Script.
