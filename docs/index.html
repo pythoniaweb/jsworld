@@ -10,10 +10,14 @@
     <meta name="description" content="JS World. Learn JS Fast.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="assets/favicon/pixilart-drawing.png">
-    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
-    <script src="assets/js/google-translate.js"></script>
-    <script src="//translate.google.com/translate_a/element.js?cb=TranslateInit"></script>
-    
+
+       <script type="text/javascript">
+     function googleTranslateElementInit() {
+         new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+     }
+   </script>
+
+   <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     
     <!-- Stylesheets -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="Simple">
@@ -33,18 +37,24 @@
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
+<style>
+ body {
+top: 0px !important; 
+}
 
+.goog-logo-link {
+    display:none !important;
+} 
+    
+.goog-te-gadget {
+    color: transparent !important;
+}
+
+.goog-te-banner-frame.skiptranslate {
+display: none !important;
+} 
+</style>
     <style>
-        body {
-  top: 0 !important;
-}
-.skiptranslate {
-  display: none;
-  height: 0;
-}
-.language__img {
-  cursor: pointer;
-}
       :root {
 
         --base-font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
