@@ -21,6 +21,7 @@ Disallow: /assets/css/custom.css
 Disallow: /assets/css/theme.css
 Disallow: /assets/css/toc.css
 Disallow: /assets/js/badge.js
+Disallow: /assets/js/google-translate.js
 Disallow: /assets/favicon/pixilart-drawing.png
 
 Sitemap: https://jsworld.is-a.dev/sitemap.xml
