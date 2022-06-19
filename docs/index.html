@@ -10,9 +10,35 @@
     <meta name="description" content="JS World. Learn JS Fast.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="assets/favicon/pixilart-drawing.png">
+<script>
+   var favicon_images = [
+                    '/assets/favicon/pixilart-drawing.png',
+                    '/assets/favicon/pixilart-drawing1.png',
+                    '/assets/favicon/pixilart-drawing2.png',
+                    '/assets/favicon/pixilart-drawing3.png',
+                    '/assets/favicon/pixilart-drawing4.png',
+                    '/assets/favicon/pixilart-drawing6.png',
+                ],
+    image_counter = 0; // To keep track of the current image
 
-   
+setInterval(function() {
+    // remove current favicon
+    if(document.querySelector("link[rel='icon']") !== null)
+        document.querySelector("link[rel='icon']").remove();
+    if(document.querySelector("link[rel='shortcut icon']") !== null)
+        document.querySelector("link[rel='shortcut icon']").remove();
+        
+    // add new favicon image
+    document.querySelector("head").insertAdjacentHTML('beforeend', '<link rel="icon" href="' + favicon_images[image_counter] + '">');
     
+    // If last image then goto first image
+    // Else go to next image    
+    if(image_counter == favicon_images.length -1)
+        image_counter = 0;
+    else
+        image_counter++;
+}, 10000);
+    </script>
     <!-- Stylesheets -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="Simple">
     <link rel="stylesheet" href="assets/css/theme.css">
