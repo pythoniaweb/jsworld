@@ -1,11 +1,8 @@
-<!-- dont edit this area -->
-- **Pined**
+- **Pined** <!-- dont edit this area -->
 - [Home](home)
-- **JS Docs**
-<!-- You can edit this area | Warning max 10-15 symbols-->
+- **JS Docs** <!-- You can edit this area | Warning max 10-15 symbols-->
 - [JS+HTML 1](html-js)
-<!-- dont edit this area -->
-- **Project Info**
+- **Project Info** <!-- dont edit this area -->
 - [![Archive Icon](https://icongr.am/fontawesome/archive.svg?size=16&color=808080) Status](status)
 - [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080) Schedules](schedule)
 - [![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=808080) Topics](topics)
