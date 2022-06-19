@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+Allow: /404.html
+Disallow: /.nojekyll
+Disallow: /CNAME
+Disallow: /googlef4233ed62f1ddc9f.html
+Disallow: /images/
+Disallow: /images/12650723674_d5c85af332_k.jpg
+Disallow: /images/4642289926_7964e733d1_b.jpg
+Disallow: /images/4853380320_492f9dce63_b.jpg
+Disallow: /images/6384294717_5047a35d48_b.jpg
+Disallow: /images/6968244538_4c0f7c7e64_k.jpg
+Disallow: /images/belinda-fewings-6wAGwpsXHE0-unsplash.jpg
+Disallow: /images/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg
+Disallow: /images/pixilart-drawing.png
+Disallow: /images/ux-toolkit-8-no-numbers.png
+Disallow: /assets/css
+Disallow: /assets/js
+Disallow: /assets/favicon
+Disallow: /assets/css/custom.css
+Disallow: /assets/css/theme.css
+Disallow: /assets/css/toc.css
+Disallow: /assets/js/badge.js
+Disallow: /assets/favicon/pixilart-drawing.png
+
+Sitemap: https://jsworld.is-a.dev/sitemap.xml
