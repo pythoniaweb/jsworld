@@ -26,10 +26,15 @@ Here is a bit of important info
 # 💖 Special Thanks
 
 - [x] pythoniaweb (PlurrYT) - created web.
-- [x] Fire Url Team by PlurrYT - js.fireurl.ga subdomain.
-- [x] Fire Watcher Team by PlurrYT - added our web to status.fireurl.ga .
-- [x] github pages - special thanks for free hosting.
-- [x] docify team - for free docs engine
+- [x] is-a.dev - gived free is-a.dev subdomain (jsworld.is-a.dev)
+- [x] github pages - for free hosting.
+- [x] docify team - for free docs engine.
+- [x] hibbitts-design - for free docsify-open-course-starter-kit (we use it).
+- [x] Pyython - we use this language in github workflows.
+- [x] JavaScript - we use it in github workflows and we make docs about it.
+- [x] img.shields.io - for image api.
+- [x] github - for free repo.
+- [x] dmca - for free Protection.
 
 # ⚙️ Contributors
 
