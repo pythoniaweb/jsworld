@@ -11,10 +11,10 @@ Welcome to JS World github!
 
 Here you can add own pages to js world!
 Dont forget you need to add all u pages to nav bar!
-Here is a bit of important info
-**CRITICAL WARNING**<br>
-**TO ALL STYLE AND SCRIPT TAGS NEED TO BE ADDED `class="notranslate" translate="no"` EXAMPLE `<script src='no src' class="notranslate" translate="no"></script>`**<br>
-**REASON: WE USE GOOGLE TRANSLATE TO TRANSLATE PAGES! GT ALWAYS TRANSLATE SCRIPTS AND STYLE (idk why)! PAGE CAN BE CRASHED OR STYLE REMOVED!**
+Here is a bit of important info<br>
+- **CRITICAL WARNING**<br>
+- **TO ALL STYLE AND SCRIPT TAGS NEED TO BE ADDED `class="notranslate" translate="no"` EXAMPLE `<script src='no src' class="notranslate" translate="no"></script>`**<br>
+- **REASON: WE USE GOOGLE TRANSLATE TO TRANSLATE PAGES! GT ALWAYS TRANSLATE SCRIPTS AND STYLE (idk why)! PAGE CAN BE CRASHED OR STYLE REMOVED!**
 - [x] [Full important info here](https://github.com/pythoniaweb/jsworld/blob/main/important.md)
 
 # 🚨 Important Info 
