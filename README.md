@@ -31,6 +31,7 @@ Here is a bit of important info
 - [x] docify engine - for free docs engine.
 - [x] docify plugins - for docify engine plugins.
 - [x] fortawesome - for icons.
+- [x] google translate - for free translator. 
 - [x] Google Fonts - for text fronts.
 - [x] gstatic.com - need to use google fronts.
 - [x] googleapis - need to use google fronts.
