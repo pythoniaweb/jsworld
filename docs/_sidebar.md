@@ -1,9 +1,9 @@
-- **Pined** <!-- dont edit this area --> <script type="text/javascript">function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+- **Pined** <!-- dont edit this area -->
 - [Home](home)
 - **Languages** <!-- dont edit this area -->
-- <div id="google_translate_element"></div>
-- **JS Docs** <!-- You can edit this area | Warning max 10-15 symbols-->
+- <div id="google_translate_element"></div> <script type="text/javascript">function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+- **JS Docs** <!-- You can edit this area | Warning max 10-15 symbols--> 
 - [JS+HTML 1](html-js)
 - **Project Info** <!-- dont edit this area -->
 - [![Archive Icon](https://icongr.am/fontawesome/archive.svg?size=16&color=808080) Status](status)
