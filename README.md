@@ -49,6 +49,7 @@ Here is a bit of important info
 - [x] JavaScript - we use it in github workflows and we make docs about it.
 - [x] img.shields.io - for image api.
 - [x] github - for free repo.
+- [x] letsencrypt.org - for free Website Certificate.
 - [x] dmca - for free Protection.
 
 # ⚙️ Contributors
