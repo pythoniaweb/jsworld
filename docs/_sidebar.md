@@ -1,7 +1,8 @@
 - **Pined** <!-- dont edit this area -->
 - [Home](home)
 - **Languages** <!-- dont edit this area -->
-- <div id="google_translate_element"></div>
+<div id="google_translate_element"></div>
+- **JS Docs** <!--  edit this area -->
 - [JS+HTML 1](html-js)
 - **Project Info** <!-- dont edit this area -->
 - [![Archive Icon](https://icongr.am/fontawesome/archive.svg?size=16&color=808080) Status](status)
