@@ -23,12 +23,27 @@ Here is a bit of important info
 - All changes is moderated.
 
 
-# 💖 Special Thanks
+# 💖 Special Thanks / Credits
 
 - [x] pythoniaweb (PlurrYT) - created web.
 - [x] is-a.dev - gived free is-a.dev subdomain (jsworld.is-a.dev)
 - [x] github pages - for free hosting.
-- [x] docify team - for free docs engine.
+- [x] docify engine - for free docs engine.
+- [x] docify plugins - for docify engine plugins.
+- [x] fortawesome - for icons.
+- [x] Google Fonts - for text fronts.
+- [x] gstatic.com - need to use google fronts.
+- [x] googleapis - need to use google fronts.
+- [x] html - we use this markdown language.
+- [x] markdown -  we use this markdown language.
+- [x] css - we use this style language.
+- [x] Source Sans Pro - we use this front.
+- [x] Helvetica Neue - we use this front.
+- [x] Arial - we use this front.
+- [x] sans-serif - we use this front.
+- [x] cdn.embedly.com - for free cdn (we download all script from this).
+- [x] cdn.jsdelivr.net - for free cdn (we download all script from this).
+- [x] unpkg.com - for free cdn (we download all script from this).
 - [x] hibbitts-design - for free docsify-open-course-starter-kit (we use it).
 - [x] Pyython - we use this language in github workflows.
 - [x] JavaScript - we use it in github workflows and we make docs about it.
