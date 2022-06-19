@@ -1,19 +1,8 @@
 
 - **Pined** <!-- dont edit this area -->
 - [Home](home)
-- <div class="language">
-   <img src="/images/lang/lang__ru.png" alt="ru" data-google-lang="ru" class="language__img">
-   <img src="/images/lang/lang__en.png" alt="en" data-google-lang="en">
-   <img src="/images/lang/lang__de.png" alt="de" data-google-lang="de" class="language__img">
-   <img src="/images/lang/lang__fr.png" alt="fr" data-google-lang="fr" class="language__img">
-   <img src="/images/lang/lang__pt.png" alt="pt" data-google-lang="pt" class="language__img">
-   <img src="/images/lang/lang__es.png" alt="es" data-google-lang="es" class="language__img">
-   <img src="/images/lang/lang__it.png" alt="it" data-google-lang="it" class="language__img">
-   <img src="/images/lang/lang__zh.png" alt="zh" data-google-lang="zh-CN" class="language__img">
-   <img src="/images/lang/lang__ar.png" alt="ar" data-google-lang="ar" class="language__img">
-   <img src="/images/lang/lang__nl.png" alt="nl" data-google-lang="nl" class="language__img">
-   <img src="/images/lang/lang__sv.png" alt="sv" data-google-lang="sv" class="language__img">
-</div>
+- **Languages** <!-- dont edit this area -->
+- <div id="google_translate_element"></div>
 - **JS Docs** <!-- You can edit this area | Warning max 10-15 symbols-->
 - [JS+HTML 1](html-js)
 - **Project Info** <!-- dont edit this area -->
