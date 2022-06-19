@@ -5,7 +5,7 @@
 - **JS Docs** <!--  edit this area -->
 - [JS+HTML 1](html-js)
 - **Project Info** <!-- dont edit this area -->
-- [![Archive Icon](https://icongr.am/fontawesome/archive.svg?size=16&color=808080) Status](status)
+- [![Archive Icon](https://icongr.am/fontawesome/archive.svg?size=16&color=808080) Status](/status.html)
 - [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080) Schedules](schedule)
 - [![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=808080) Topics](topics)
 - **Security badges**
