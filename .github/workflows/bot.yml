@@ -27,7 +27,7 @@ jobs:
           architecture: "x64"
 
       # Use PIP to install the dependencies and then run the script.
-      - name: Running Script
+      - name: Running Script 💥
         # But first we read the WEBHOOK secret and create an
         # environment variable with the same name.
         #pip install -r requirements.txt
