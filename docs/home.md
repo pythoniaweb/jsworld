@@ -1,4 +1,4 @@
-
+<h1 style="display: none">Best free JS Learning Web - js, html, css, world, js world, learn js, best, free</h1>
 # Welcome to JS world!
 > ## What is JS World?
 > Its A magical world where u can learn Java Script.
