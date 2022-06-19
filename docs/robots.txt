@@ -24,3 +24,4 @@ Disallow: /assets/js/badge.js
 Disallow: /assets/favicon/pixilart-drawing.png
 
 Sitemap: https://jsworld.is-a.dev/sitemap.xml
+Sitemap: http://jsworld.is-a.dev/sitemap.xml
