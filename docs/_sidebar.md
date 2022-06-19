@@ -1,7 +1,8 @@
 <!-- dont edit this area -->
+![Build](https://github.com/pythoniaweb/jsworld/actions/workflows/deploy.yml/badge.svg)
 - [Home](home)
 - **JS Docs**
-<!-- You can edit this area -->
+<!-- You can edit this area | Warning max 10-15 symbols-->
 - [JS+HTML 1](html-js)
 <!-- dont edit this area -->
 - **Project Info**
