@@ -22,9 +22,3 @@ body .markdown-section {
     text-decoration: underline;
 }
 */
-body{
-  cursor: url('/assets/favicon/EASgIvp.png');
-}
-*:hover { 
-  cursor: url('/assets/favicon/4kPPqsx.png');
-}
