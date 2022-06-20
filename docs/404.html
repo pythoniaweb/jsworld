@@ -11,6 +11,32 @@
 	    <link rel="icon" href="assets/favicon/pixilart-drawing.png">
 	    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
 	    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+	<script class="notranslate" translate="no">
+   var favicon_images = [
+                    '/assets/favicon/pixilart-drawing.png',
+                    '/assets/favicon/jsicatandfriend.png',
+                    '/assets/favicon/jasierror.png',
+                ],
+    image_counter = 0; // To keep track of the current image
+
+setInterval(function() {
+    // remove current favicon
+    if(document.querySelector("link[rel='icon']") !== null)
+        document.querySelector("link[rel='icon']").remove();
+    if(document.querySelector("link[rel='shortcut icon']") !== null)
+        document.querySelector("link[rel='shortcut icon']").remove();
+        
+    // add new favicon image
+    document.querySelector("head").insertAdjacentHTML('beforeend', '<link rel="icon" href="' + favicon_images[image_counter] + '">');
+    
+    // If last image then goto first image
+    // Else go to next image    
+    if(image_counter == favicon_images.length -1)
+        image_counter = 0;
+    else
+        image_counter++;
+}, 10000);
+    </script>
 </head>
 <section class="page_404">
 	<div class="container">
