@@ -1,5 +1,5 @@
 # 🌐 JS World
-![example workflow](https://github.com/pythoniaweb/jsworld/actions/workflows/deploy.yml/badge.svg) ![example workflow](https://github.com/pythoniaweb/jsworld/actions/workflows/codeql-analysis.yml/badge.svg) ![example workflow](https://github.com/pythoniaweb/jsworld/actions/workflows/label.yml/badge.svg) ![example workflow](https://github.com/pythoniaweb/jsworld/actions/workflows/stale.yml/badge.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/pythoniaweb/jsworld/blob/main/LICENSE)
+![example workflow](https://github.com/pythoniaweb/jsworld/actions/workflows/deploy.yml/badge.svg) ![example workflow](https://github.com/pythoniaweb/jsworld/actions/workflows/codeql-analysis.yml/badge.svg) ![example workflow](https://github.com/pythoniaweb/jsworld/actions/workflows/label.yml/badge.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/pythoniaweb/jsworld/blob/main/LICENSE)
 
 
 [![JS](https://img.shields.io/badge/Learn-JS-FFE70B.svg?style=flat-square)]() [![PRs](https://img.shields.io/github/issues-pr-closed-raw/pythoniaweb/jsworld.svg?style=flat-square&colorB=FFE70B&label=pull%20requests)](https://github.com/pythoniaweb/jsworld/pulls?q=is%3Apr+is%3Aclosed+label%3Aadd)
