@@ -10,7 +10,7 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 0
       - name: Setup node v15 ✨
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
           node-version: '15' 
       - name: Install dependencies 💖
