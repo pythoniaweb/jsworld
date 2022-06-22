@@ -13,10 +13,7 @@ const HOSTNAME_WHITELIST = [
   'fonts.googleapis.com',
   'cdn.jsdelivr.net',
   'unpkg.com',
-  'zink.tips',
-  'world.js.cool',
-  'cdn.embedly.com',
-  'github.com'
+  'zink.tips','cdn.embedly.com','github.com'
 ]
 
 // The Util Function to hack URLs of intercepted requests
