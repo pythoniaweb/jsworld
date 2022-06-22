@@ -1,1 +1,4 @@
 "deploy": "touch ./docs/.nojekyll && gh-pages -d output_folder -t true"
+"publishConfig": {
+   "@pythoniaweb:registry": "https://npm.pkg.github.com"
+ }
