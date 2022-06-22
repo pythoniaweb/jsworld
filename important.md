@@ -8,6 +8,8 @@
 **TO ALL STYLE AND SCRIPT TAGS NEED TO BE ADDED `class="notranslate" translate="no"` EXAMPLE `<script src='no src' class="notranslate" translate="no"></script>`**
 **REASON: WE USE GOOGLE TRANSLATE TO TRANSLATE PAGES! GT ALWAYS TRANSLATE SCRIPTS AND STYLE (idk why)! PAGE CAN BE CRASHED OR STYLE REMOVED!**
 
+- [x] [Tutorial for creating docs](https://github.com/pythoniaweb/jsworld/blob/main/tutorial.md)
+
 - If u want to create new page create it on folder docs.
 - All pages muss be ended with .md .
 - All pages with end .md support html js and markdown!
