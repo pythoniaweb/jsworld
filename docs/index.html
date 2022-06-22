@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="manifest" href="/manifest.json">
-    <link rel="canonical" href="https://world.js.cool/">
     <script src="/assets/js/https.js"></script>
     <script async src="https://zink.tips/zwc.js?rid=62b05d2de111369fb0cc0103&c=gold"></script>
     <meta name="googlebot" content="index, follow">
@@ -21,14 +19,11 @@ function googleTranslateElementInit() {
 }
 </script>
   <script class="notranslate" translate="no">
-    if('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/sw.js')
-        .then(reg => console.log('Service Worker registered', reg))
-        .catch(err => console.error('Service Worker **not** registered', err));
-    }
-    else {
-      console.warn('Service Worker not supported in this browser');
-    }    
+
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+
   </script>
 <script class="notranslate" translate="no">
    var favicon_images = [
