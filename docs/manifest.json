@@ -2,18 +2,7 @@
   "name": "JS World",
   "short_name": "JS World",
   "description": "A magical world where u can learn Java Script.",
-  "icons": [
-{
-      "sizes": "34x34",
-      "type": "image/png",
-      "src": "https://world.js.cool/assets/favicon/pixilart-drawing.png"
-    },
-    {
-      "sizes": "34x34",
-      "type": "image/png",
-      "src": "https://world.js.cool/assets/favicon/pixilart-drawing.png"
-    }
-  ],
+
   "display": "standalone",
   "background_color": "#000001",
   "theme_color": "#000001",
