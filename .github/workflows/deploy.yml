@@ -9,9 +9,9 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
-
+        
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:
-          branch: main # The branch the action should deploy to.
-          folder: . # The folder the action should deploy.
+          branch: web # The branch the action should deploy to.
+          folder: docs # The folder the action should deploy.
