@@ -32,7 +32,8 @@ Here is a bit of important info<br>
 # 💖 Special Thanks / Credits
 
 - [x] pythoniaweb (PlurrYT) - created web.
-- [x] is-a.dev - gived free is-a.dev subdomain (jsworld.is-a.dev)
+- [x] is-a.dev - gived free is-a.dev subdomain (jsworld.is-a.dev) • (will be used soon for blog)
+- [x] js.cool - gived free js.cool subdomain (world.js.cool) • (we use it now)
 - [x] github pages - for free hosting.
 - [x] ruby - we use this language to fix github build and deployment bug. 
 - [x] docify engine - for free docs engine.
