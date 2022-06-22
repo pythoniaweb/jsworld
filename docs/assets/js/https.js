@@ -1,6 +1,4 @@
-# JS World Technology's
-# Anti http:// protocol.
-# By Pythoniaweb
+// JS World Technology's
 
 if (location.protocol !== 'https:') {
     console.error("http detected! Making https:")
