@@ -33,6 +33,7 @@ Here is a bit of important info<br>
 - [x] pythoniaweb (PlurrYT) - created web.
 - [x] is-a.dev - gived free is-a.dev subdomain (jsworld.is-a.dev)
 - [x] github pages - for free hosting.
+- [x] ruby - we use this language to fix github build and deployment bug. 
 - [x] docify engine - for free docs engine.
 - [x] docify plugins - for docify engine plugins.
 - [x] fortawesome - for icons.
