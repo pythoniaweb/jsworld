@@ -7,6 +7,12 @@
       "sizes": "34x34",
       "type": "image/png",
       "src": "https://world.js.cool/assets/favicon/pixilart-drawing.png?v=1633521972305",
+      "purpose": "any"
+    },
+    {
+      "sizes": "34x34",
+      "type": "image/png",
+      "src": "https://world.js.cool/assets/favicon/pixilart-drawing.png?v=1633521972305",
       "purpose": "maskable"
     }
   ],
