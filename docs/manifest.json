@@ -1,7 +1,7 @@
 {
-  "name": "Simplest PWA",
-  "short_name": "Simplest PWA",
-  "description": "The Simplest PWA possible",
+  "name": "JS World App",
+  "short_name": "JS World",
+  "description": "Learn JS with JS World!",
   "icons": [
     {
       "sizes": "34x34",
