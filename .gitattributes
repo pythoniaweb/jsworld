@@ -6,3 +6,4 @@
 *.txt linguist-detectable=true
 *.gitignore linguist-detectable=true
 *.md linguist-detectable=true
+*.yml linguist-detectable=true
