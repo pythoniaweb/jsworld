@@ -12,7 +12,9 @@ self.addEventListener('install', e => {
           'index.html',
           '/',
           '/assets',
-          '/images'
+          '/images',
+          '404.html',
+          'status.html'
         ])
       })
   );
