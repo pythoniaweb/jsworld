@@ -4,14 +4,14 @@
   "description": "A magical world where u can learn Java Script.",
   "icons": [
 {
-      "sizes": "192x192",
+      "sizes": "34x34",
       "type": "image/png",
-      "src": "https://cdn.glitch.com/d7915b95-ca73-4f83-b935-551cba915e01%2Fpwa-192.png?1495987097937"
+      "src": "https://world.js.cool/assets/favicon/pixilart-drawing.png"
     },
     {
-      "sizes": "512x512",
+      "sizes": "34x34",
       "type": "image/png",
-      "src": "https://cdn.glitch.com/d7915b95-ca73-4f83-b935-551cba915e01%2Fpwa-512.png?1495987074284"
+      "src": "https://world.js.cool/assets/favicon/pixilart-drawing.png"
     }
   ],
   "display": "standalone",
