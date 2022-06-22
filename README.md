@@ -62,4 +62,4 @@ Here is a bit of important info<br>
 
 # ⚙️ Contributors
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=pythoniaweb/jsworld)
+![GitHub Contributors Image 1](https://contrib.rocks/image?repo=pythoniaweb/jsworld)
