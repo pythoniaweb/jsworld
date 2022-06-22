@@ -2,7 +2,6 @@
   "name": "JS World",
   "short_name": "JS World",
   "description": "A magical world where u can learn Java Script.",
-
   "display": "standalone",
   "background_color": "#000001",
   "theme_color": "#000001",
