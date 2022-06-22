@@ -1,0 +1,1 @@
+"deploy": "touch ./output_folder/.nojekyll && gh-pages -d output_folder -t true"
