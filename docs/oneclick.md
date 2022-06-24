@@ -2,8 +2,14 @@
 > Oneclick is a free captcha to our website
 > Its very simple.
 
+##OneClick Cons
+> Not work in render engines like md to html
+> Not work on docify
+> Not work in some web builders
+> Sometimes not work on WordPress (cant setup)
+
 ## Start Wirh OneClick
-###Importing Oneclick
+### Importing Oneclick
 
 
 ```js
@@ -43,6 +49,3 @@ if(element == true){
 ```
 
 PS: We try to add to this site but not work
-Its not work on docify.
-In some web builder.
-Need own code..
