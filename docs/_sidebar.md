@@ -1,7 +1,7 @@
 - **Pined** <!-- dont edit this area -->
 - [Home](home)
 - **Languages** <!-- dont edit this area -->
-<div id="google_translate_element"></div>
+<div id="google_translate_element">Reload Page</div>
 - **JS Docs** <!--  edit this area -->
 - [JS+HTML 1](html-js)
 - **JS Modules**
