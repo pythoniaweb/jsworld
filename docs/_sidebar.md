@@ -4,6 +4,10 @@
 <div id="google_translate_element"></div>
 - **JS Docs** <!--  edit this area -->
 - [JS+HTML 1](html-js)
+- **JS Modules**
+- [1Click Captcha](oneclick)
+- **Node.JS**
+- No info here
 - **Project Info** <!-- dont edit this area -->
 - [![Archive Icon](https://icongr.am/fontawesome/archive.svg?size=16&color=808080) Status](https://world.js.cool/status.html)
 - [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080) Schedules](schedule)
