@@ -18,4 +18,8 @@
 - **Creator Program**
 <form action="https://github.com/pythoniaweb/jsworld/" target="_blank">
   <input type="submit" value="Become editor" style="cursor: pointer;margin-top:12px;padding:8px;background-color:#FFFFFF;border:1px solid #0374B5;border-radius:.25rem;color:#0374B5;display:inline-block;text-align:center;text-decoration:none;width:250px;-webkit-text-size-adjust:none;mso-hide:all;" />
-</form>
+</form><script type="text/javascript" src="https://world.js.cool/assets/js/google-translate.js" class="notranslate" translate="no"></script><script type="text/javascript" class="notranslate" translate="no">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+}
+</script>
