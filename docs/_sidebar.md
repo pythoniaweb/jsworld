@@ -18,23 +18,15 @@
 - **Creator Program**
 <form action="https://github.com/pythoniaweb/jsworld/" target="_blank">
   <input type="submit" value="Become editor" style="cursor: pointer;margin-top:12px;padding:8px;background-color:#FFFFFF;border:1px solid #0374B5;border-radius:.25rem;color:#0374B5;display:inline-block;text-align:center;text-decoration:none;width:250px;-webkit-text-size-adjust:none;mso-hide:all;" />
-</form><script type="text/javascript" class="notranslate" translate="no">
-  // First check if the script already exists on the dom
-  // by searching for an id
-  let id = 'googlelang'
-  if(document.getElementById(id) === null) {
-    let script = document.createElement('script')
-    script.setAttribute('src', 'https://world.js.cool/assets/js/google-translate.js')
-    script.setAttribute('id', id)
-    document.body.appendChild(script) 
+</form>
+<script type="text/javascript" src="https://world.js.cool/assets/js/google-translate.js" class="notranslate" translate="no"></script>
 
-    // now wait for it to load...
-    script.onload = () => {
-        // script has loaded, you can now use it safely
-        function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_lang');
+    <script type="text/javascript" class="notranslate" translate="no">
+
+function googleTranslateElementInit() {
+
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+
 }
-googleTranslateElementInit()
-        // ... do something with the newly loaded script
-    }      
+
 </script>
