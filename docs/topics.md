@@ -3,29 +3,20 @@
 ### A | B | C | D | E | F | G | [H](#h) | I | J | K | L | M | N | [O](#O) | P | Q | R | [S](#s) | [T](#t) | U | V | W | X | Y | Z  
 
 ### H
-
-> **Pinned**
-
+- **Pinned**
 - [Home](home)
-
-> **JS Docs**
-
+- **JS Docs**
 - [JS+HTML 1](html-js)
 
 ### O
-> **JS Modules**
-
+- **JS Modules**
 - [OneClick](oneclick)
 
 ### S 
-
-> **Project Info**
-
+- **Project Info**
 - [Schedules](schedule)
 
 ### T
-
-> **Project Info**
-
+- **Project Info**
 - [Topics](topics)
 
