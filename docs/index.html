@@ -252,7 +252,7 @@ display: none !important;
                 } else {
                   url = gitLinkRepoURL +'/blob/main/docs/' + vm.route.file
                 }
-                var editHtml = '[![Github](https://icongr.am/fontawesome/github.svg?size=16&color=808080) ' + editThisPageLinkText + '](' + url + ')\n',
+                var editHtml = '[![Github](https://icongr.am/fontawesome/github.svg?size=16&color=808080) ' + editThisPageLinkText + '](' + url + ')\nLanguages: <div id="google_translate_element"></div>\n',
 
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
@@ -353,6 +353,15 @@ SWU__DOMReady(function() {
         document.write('<script src="https://unpkg.com/docsify-toc@1.0.2/dist/toc.js"><\/script>');
       }
     </script>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
 
     <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8" class="notranslate" translate="no"></script>
 
