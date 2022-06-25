@@ -12,7 +12,7 @@
 ### Importing Oneclick
 
 
-```js
+```html
 <div class="captcha-code"></div> <!-- Dont Delete • Anti Bot -->
 <div id="captcha-element"></div> <!-- Here will be Captcha -->
 <script src="https://oneclick-2.sdddddddada.repl.co/script.js" id="1click" accesskey="oneapikeyfreeacces"></script> <!-- Import captcha -->
