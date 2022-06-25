@@ -21,13 +21,7 @@
 </form>
 <script type="text/javascript" src="https://world.js.cool/assets/js/google-translate.js" class="notranslate" translate="no"></script>
 <script type="text/javascript" class="notranslate" translate="no">
-
 function googleTranslateElementInit() {
-
   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
-
 }
-googleTranslateElementInit()
-new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
-
 </script>
