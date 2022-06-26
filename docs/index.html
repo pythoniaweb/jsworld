@@ -252,7 +252,7 @@ display: none !important;
                 } else {
                   url = gitLinkRepoURL +'/blob/main/docs/' + vm.route.file
                 }
-                var editHtml = '[![Github](https://icongr.am/fontawesome/github.svg?size=16&color=808080) ' + editThisPageLinkText + '](' + url + ')\nLanguages: <div id="google_translate_element"></div>\n',
+                var editHtml = '[![Github](https://icongr.am/fontawesome/github.svg?size=16&color=808080) ' + editThisPageLinkText + '](' + url + ')<br>Languages: <div id="google_translate_element"></div><br>',
 
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
